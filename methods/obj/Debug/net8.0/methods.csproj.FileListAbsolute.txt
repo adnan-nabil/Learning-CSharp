@@ -1,0 +1,14 @@
+E:\VSCODE\Learning-C#\methods\bin\Debug\net8.0\methods.exe
+E:\VSCODE\Learning-C#\methods\bin\Debug\net8.0\methods.deps.json
+E:\VSCODE\Learning-C#\methods\bin\Debug\net8.0\methods.runtimeconfig.json
+E:\VSCODE\Learning-C#\methods\bin\Debug\net8.0\methods.dll
+E:\VSCODE\Learning-C#\methods\bin\Debug\net8.0\methods.pdb
+E:\VSCODE\Learning-C#\methods\obj\Debug\net8.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCODE\Learning-C#\methods\obj\Debug\net8.0\methods.AssemblyInfoInputs.cache
+E:\VSCODE\Learning-C#\methods\obj\Debug\net8.0\methods.AssemblyInfo.cs
+E:\VSCODE\Learning-C#\methods\obj\Debug\net8.0\methods.csproj.CoreCompileInputs.cache
+E:\VSCODE\Learning-C#\methods\obj\Debug\net8.0\methods.dll
+E:\VSCODE\Learning-C#\methods\obj\Debug\net8.0\refint\methods.dll
+E:\VSCODE\Learning-C#\methods\obj\Debug\net8.0\methods.pdb
+E:\VSCODE\Learning-C#\methods\obj\Debug\net8.0\methods.genruntimeconfig.cache
+E:\VSCODE\Learning-C#\methods\obj\Debug\net8.0\ref\methods.dll
