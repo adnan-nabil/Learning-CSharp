@@ -1,0 +1,15 @@
+E:\VSCODE\Learning-CSharp\value vs reference\bin\Debug\net8.0\value vs reference.exe
+E:\VSCODE\Learning-CSharp\value vs reference\bin\Debug\net8.0\value vs reference.deps.json
+E:\VSCODE\Learning-CSharp\value vs reference\bin\Debug\net8.0\value vs reference.runtimeconfig.json
+E:\VSCODE\Learning-CSharp\value vs reference\bin\Debug\net8.0\value vs reference.dll
+E:\VSCODE\Learning-CSharp\value vs reference\bin\Debug\net8.0\value vs reference.pdb
+E:\VSCODE\Learning-CSharp\value vs reference\obj\Debug\net8.0\value vs reference.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCODE\Learning-CSharp\value vs reference\obj\Debug\net8.0\value vs reference.AssemblyInfoInputs.cache
+E:\VSCODE\Learning-CSharp\value vs reference\obj\Debug\net8.0\value vs reference.AssemblyInfo.cs
+E:\VSCODE\Learning-CSharp\value vs reference\obj\Debug\net8.0\value vs reference.csproj.CoreCompileInputs.cache
+E:\VSCODE\Learning-CSharp\value vs reference\obj\Debug\net8.0\value vs reference.sourcelink.json
+E:\VSCODE\Learning-CSharp\value vs reference\obj\Debug\net8.0\value vs reference.dll
+E:\VSCODE\Learning-CSharp\value vs reference\obj\Debug\net8.0\refint\value vs reference.dll
+E:\VSCODE\Learning-CSharp\value vs reference\obj\Debug\net8.0\value vs reference.pdb
+E:\VSCODE\Learning-CSharp\value vs reference\obj\Debug\net8.0\value vs reference.genruntimeconfig.cache
+E:\VSCODE\Learning-CSharp\value vs reference\obj\Debug\net8.0\ref\value vs reference.dll
