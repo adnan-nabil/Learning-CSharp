@@ -1,0 +1,15 @@
+E:\VSCODE\Learning-CSharp\basic class -object\bin\Debug\net8.0\basic class -object.exe
+E:\VSCODE\Learning-CSharp\basic class -object\bin\Debug\net8.0\basic class -object.deps.json
+E:\VSCODE\Learning-CSharp\basic class -object\bin\Debug\net8.0\basic class -object.runtimeconfig.json
+E:\VSCODE\Learning-CSharp\basic class -object\bin\Debug\net8.0\basic class -object.dll
+E:\VSCODE\Learning-CSharp\basic class -object\bin\Debug\net8.0\basic class -object.pdb
+E:\VSCODE\Learning-CSharp\basic class -object\obj\Debug\net8.0\basic class -object.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCODE\Learning-CSharp\basic class -object\obj\Debug\net8.0\basic class -object.AssemblyInfoInputs.cache
+E:\VSCODE\Learning-CSharp\basic class -object\obj\Debug\net8.0\basic class -object.AssemblyInfo.cs
+E:\VSCODE\Learning-CSharp\basic class -object\obj\Debug\net8.0\basic class -object.csproj.CoreCompileInputs.cache
+E:\VSCODE\Learning-CSharp\basic class -object\obj\Debug\net8.0\basic class -object.sourcelink.json
+E:\VSCODE\Learning-CSharp\basic class -object\obj\Debug\net8.0\basic class -object.dll
+E:\VSCODE\Learning-CSharp\basic class -object\obj\Debug\net8.0\refint\basic class -object.dll
+E:\VSCODE\Learning-CSharp\basic class -object\obj\Debug\net8.0\basic class -object.pdb
+E:\VSCODE\Learning-CSharp\basic class -object\obj\Debug\net8.0\basic class -object.genruntimeconfig.cache
+E:\VSCODE\Learning-CSharp\basic class -object\obj\Debug\net8.0\ref\basic class -object.dll
