@@ -1,0 +1,15 @@
+E:\VSCODE\Learning-CSharp\method class member\bin\Debug\net8.0\Learning-CSharp.exe
+E:\VSCODE\Learning-CSharp\method class member\bin\Debug\net8.0\Learning-CSharp.deps.json
+E:\VSCODE\Learning-CSharp\method class member\bin\Debug\net8.0\Learning-CSharp.runtimeconfig.json
+E:\VSCODE\Learning-CSharp\method class member\bin\Debug\net8.0\Learning-CSharp.dll
+E:\VSCODE\Learning-CSharp\method class member\bin\Debug\net8.0\Learning-CSharp.pdb
+E:\VSCODE\Learning-CSharp\method class member\obj\Debug\net8.0\Learning-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCODE\Learning-CSharp\method class member\obj\Debug\net8.0\Learning-CSharp.AssemblyInfoInputs.cache
+E:\VSCODE\Learning-CSharp\method class member\obj\Debug\net8.0\Learning-CSharp.AssemblyInfo.cs
+E:\VSCODE\Learning-CSharp\method class member\obj\Debug\net8.0\Learning-CSharp.csproj.CoreCompileInputs.cache
+E:\VSCODE\Learning-CSharp\method class member\obj\Debug\net8.0\Learning-CSharp.sourcelink.json
+E:\VSCODE\Learning-CSharp\method class member\obj\Debug\net8.0\Learning-CSharp.dll
+E:\VSCODE\Learning-CSharp\method class member\obj\Debug\net8.0\refint\Learning-CSharp.dll
+E:\VSCODE\Learning-CSharp\method class member\obj\Debug\net8.0\Learning-CSharp.pdb
+E:\VSCODE\Learning-CSharp\method class member\obj\Debug\net8.0\Learning-CSharp.genruntimeconfig.cache
+E:\VSCODE\Learning-CSharp\method class member\obj\Debug\net8.0\ref\Learning-CSharp.dll

@@ -1,0 +1,15 @@
+E:\VSCODE\Learning-CSharp\constructor\bin\Debug\net8.0\constructor.exe
+E:\VSCODE\Learning-CSharp\constructor\bin\Debug\net8.0\constructor.deps.json
+E:\VSCODE\Learning-CSharp\constructor\bin\Debug\net8.0\constructor.runtimeconfig.json
+E:\VSCODE\Learning-CSharp\constructor\bin\Debug\net8.0\constructor.dll
+E:\VSCODE\Learning-CSharp\constructor\bin\Debug\net8.0\constructor.pdb
+E:\VSCODE\Learning-CSharp\constructor\obj\Debug\net8.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCODE\Learning-CSharp\constructor\obj\Debug\net8.0\constructor.AssemblyInfoInputs.cache
+E:\VSCODE\Learning-CSharp\constructor\obj\Debug\net8.0\constructor.AssemblyInfo.cs
+E:\VSCODE\Learning-CSharp\constructor\obj\Debug\net8.0\constructor.csproj.CoreCompileInputs.cache
+E:\VSCODE\Learning-CSharp\constructor\obj\Debug\net8.0\constructor.sourcelink.json
+E:\VSCODE\Learning-CSharp\constructor\obj\Debug\net8.0\constructor.dll
+E:\VSCODE\Learning-CSharp\constructor\obj\Debug\net8.0\refint\constructor.dll
+E:\VSCODE\Learning-CSharp\constructor\obj\Debug\net8.0\constructor.pdb
+E:\VSCODE\Learning-CSharp\constructor\obj\Debug\net8.0\constructor.genruntimeconfig.cache
+E:\VSCODE\Learning-CSharp\constructor\obj\Debug\net8.0\ref\constructor.dll
