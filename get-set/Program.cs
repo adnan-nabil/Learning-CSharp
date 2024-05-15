@@ -1,4 +1,7 @@
-﻿class Person
+﻿using System.IO.Pipes;
+using System.Security.Cryptography.X509Certificates;
+
+class Person
 {
     private string? name;
     private int age;
@@ -59,15 +62,25 @@ class Test
 
 
         p1.Name = "nabil";
-        p1.agee=26;
-        p1.p_number="9876543227";
+        p1.agee = 26;
+        p1.p_number = "9876543227";
 
-        p2.Name="nahid";
-        p2.agee=22;
-        p2.p_number="9876543456";
+        p2.Name = "nahid";
+        p2.agee = 22;
+        p2.p_number = "9876543456";
 
 
         System.Console.WriteLine($"p1 name ={p1.Name}, age = {p1.agee}, passport = {p1.p_number}");
         System.Console.WriteLine($"p2 name ={p2.Name}, age = {p2.agee}, passport = {p2.p_number}");
+
+
+        Console.WriteLine($"");
+
+        System.Console.ReadLine();
+
+        int n = Convert.ToInt32(System.Console.ReadLine());
+
+
+
     }
 }
