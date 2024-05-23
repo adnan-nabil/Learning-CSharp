@@ -1,0 +1,15 @@
+E:\VSCODE\Learning-CSharp-OOP\student management\bin\Debug\net8.0\student management.exe
+E:\VSCODE\Learning-CSharp-OOP\student management\bin\Debug\net8.0\student management.deps.json
+E:\VSCODE\Learning-CSharp-OOP\student management\bin\Debug\net8.0\student management.runtimeconfig.json
+E:\VSCODE\Learning-CSharp-OOP\student management\bin\Debug\net8.0\student management.dll
+E:\VSCODE\Learning-CSharp-OOP\student management\bin\Debug\net8.0\student management.pdb
+E:\VSCODE\Learning-CSharp-OOP\student management\obj\Debug\net8.0\student management.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCODE\Learning-CSharp-OOP\student management\obj\Debug\net8.0\student management.AssemblyInfoInputs.cache
+E:\VSCODE\Learning-CSharp-OOP\student management\obj\Debug\net8.0\student management.AssemblyInfo.cs
+E:\VSCODE\Learning-CSharp-OOP\student management\obj\Debug\net8.0\student management.csproj.CoreCompileInputs.cache
+E:\VSCODE\Learning-CSharp-OOP\student management\obj\Debug\net8.0\student management.sourcelink.json
+E:\VSCODE\Learning-CSharp-OOP\student management\obj\Debug\net8.0\student management.dll
+E:\VSCODE\Learning-CSharp-OOP\student management\obj\Debug\net8.0\refint\student management.dll
+E:\VSCODE\Learning-CSharp-OOP\student management\obj\Debug\net8.0\student management.pdb
+E:\VSCODE\Learning-CSharp-OOP\student management\obj\Debug\net8.0\student management.genruntimeconfig.cache
+E:\VSCODE\Learning-CSharp-OOP\student management\obj\Debug\net8.0\ref\student management.dll

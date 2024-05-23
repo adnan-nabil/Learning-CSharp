@@ -1,0 +1,15 @@
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\bin\Debug\net8.0\exception handeling.exe
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\bin\Debug\net8.0\exception handeling.deps.json
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\bin\Debug\net8.0\exception handeling.runtimeconfig.json
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\bin\Debug\net8.0\exception handeling.dll
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\bin\Debug\net8.0\exception handeling.pdb
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\obj\Debug\net8.0\exception handeling.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\obj\Debug\net8.0\exception handeling.AssemblyInfoInputs.cache
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\obj\Debug\net8.0\exception handeling.AssemblyInfo.cs
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\obj\Debug\net8.0\exception handeling.csproj.CoreCompileInputs.cache
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\obj\Debug\net8.0\exception handeling.sourcelink.json
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\obj\Debug\net8.0\exception handeling.dll
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\obj\Debug\net8.0\refint\exception handeling.dll
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\obj\Debug\net8.0\exception handeling.pdb
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\obj\Debug\net8.0\exception handeling.genruntimeconfig.cache
+E:\VSCODE\Learning-CSharp-OOP\exception handeling\obj\Debug\net8.0\ref\exception handeling.dll

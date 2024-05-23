@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7DMFD1FUzwIz2NjJoPa5Gkk3PODvZ3T6ri8upuasn81sUuUp1HLxczfpDOsuH8H8g1hjiklaHT9gYTzHU+FAiA==",
+  "dgSpecHash": "WeoKWzqQL1iHv9adrhHCu5wvtnhfnzFRBUdMAoWQHlzh71KhbcsJ7FaBKZxhx5pQ2+p3go6o9nf9vruQWHuqcw==",
   "success": true,
-  "projectFilePath": "E:\\VSCODE\\Learning-CSharp\\value vs reference\\value vs reference.csproj",
+  "projectFilePath": "E:\\VSCODE\\Learning-CSharp-OOP\\value vs reference\\value vs reference.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

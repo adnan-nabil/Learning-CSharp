@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VSCODE\\Learning-CSharp\\value vs reference\\value vs reference.csproj",
+      "projectUniqueName": "E:\\VSCODE\\Learning-CSharp-OOP\\value vs reference\\value vs reference.csproj",
       "projectName": "value vs reference",
-      "projectPath": "E:\\VSCODE\\Learning-CSharp\\value vs reference\\value vs reference.csproj",
+      "projectPath": "E:\\VSCODE\\Learning-CSharp-OOP\\value vs reference\\value vs reference.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\VSCODE\\Learning-CSharp\\value vs reference\\obj\\",
+      "outputPath": "E:\\VSCODE\\Learning-CSharp-OOP\\value vs reference\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
