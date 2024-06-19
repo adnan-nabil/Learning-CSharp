@@ -1,0 +1,15 @@
+E:\VSCODE\Learning-CSharp-OOP\Arrays\bin\Debug\net8.0\Arrays.exe
+E:\VSCODE\Learning-CSharp-OOP\Arrays\bin\Debug\net8.0\Arrays.deps.json
+E:\VSCODE\Learning-CSharp-OOP\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+E:\VSCODE\Learning-CSharp-OOP\Arrays\bin\Debug\net8.0\Arrays.dll
+E:\VSCODE\Learning-CSharp-OOP\Arrays\bin\Debug\net8.0\Arrays.pdb
+E:\VSCODE\Learning-CSharp-OOP\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCODE\Learning-CSharp-OOP\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+E:\VSCODE\Learning-CSharp-OOP\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+E:\VSCODE\Learning-CSharp-OOP\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+E:\VSCODE\Learning-CSharp-OOP\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+E:\VSCODE\Learning-CSharp-OOP\Arrays\obj\Debug\net8.0\Arrays.dll
+E:\VSCODE\Learning-CSharp-OOP\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+E:\VSCODE\Learning-CSharp-OOP\Arrays\obj\Debug\net8.0\Arrays.pdb
+E:\VSCODE\Learning-CSharp-OOP\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+E:\VSCODE\Learning-CSharp-OOP\Arrays\obj\Debug\net8.0\ref\Arrays.dll

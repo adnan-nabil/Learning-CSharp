@@ -1,0 +1,15 @@
+E:\VSCODE\Learning-CSharp-OOP\Array operations\bin\Debug\net8.0\Array operations.exe
+E:\VSCODE\Learning-CSharp-OOP\Array operations\bin\Debug\net8.0\Array operations.deps.json
+E:\VSCODE\Learning-CSharp-OOP\Array operations\bin\Debug\net8.0\Array operations.runtimeconfig.json
+E:\VSCODE\Learning-CSharp-OOP\Array operations\bin\Debug\net8.0\Array operations.dll
+E:\VSCODE\Learning-CSharp-OOP\Array operations\bin\Debug\net8.0\Array operations.pdb
+E:\VSCODE\Learning-CSharp-OOP\Array operations\obj\Debug\net8.0\Array operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCODE\Learning-CSharp-OOP\Array operations\obj\Debug\net8.0\Array operations.AssemblyInfoInputs.cache
+E:\VSCODE\Learning-CSharp-OOP\Array operations\obj\Debug\net8.0\Array operations.AssemblyInfo.cs
+E:\VSCODE\Learning-CSharp-OOP\Array operations\obj\Debug\net8.0\Array operations.csproj.CoreCompileInputs.cache
+E:\VSCODE\Learning-CSharp-OOP\Array operations\obj\Debug\net8.0\Array operations.sourcelink.json
+E:\VSCODE\Learning-CSharp-OOP\Array operations\obj\Debug\net8.0\Array operations.dll
+E:\VSCODE\Learning-CSharp-OOP\Array operations\obj\Debug\net8.0\refint\Array operations.dll
+E:\VSCODE\Learning-CSharp-OOP\Array operations\obj\Debug\net8.0\Array operations.pdb
+E:\VSCODE\Learning-CSharp-OOP\Array operations\obj\Debug\net8.0\Array operations.genruntimeconfig.cache
+E:\VSCODE\Learning-CSharp-OOP\Array operations\obj\Debug\net8.0\ref\Array operations.dll

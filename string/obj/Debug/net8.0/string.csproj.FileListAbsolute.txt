@@ -1,0 +1,15 @@
+E:\VSCODE\Learning-CSharp-OOP\string\bin\Debug\net8.0\string.exe
+E:\VSCODE\Learning-CSharp-OOP\string\bin\Debug\net8.0\string.deps.json
+E:\VSCODE\Learning-CSharp-OOP\string\bin\Debug\net8.0\string.runtimeconfig.json
+E:\VSCODE\Learning-CSharp-OOP\string\bin\Debug\net8.0\string.dll
+E:\VSCODE\Learning-CSharp-OOP\string\bin\Debug\net8.0\string.pdb
+E:\VSCODE\Learning-CSharp-OOP\string\obj\Debug\net8.0\string.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCODE\Learning-CSharp-OOP\string\obj\Debug\net8.0\string.AssemblyInfoInputs.cache
+E:\VSCODE\Learning-CSharp-OOP\string\obj\Debug\net8.0\string.AssemblyInfo.cs
+E:\VSCODE\Learning-CSharp-OOP\string\obj\Debug\net8.0\string.csproj.CoreCompileInputs.cache
+E:\VSCODE\Learning-CSharp-OOP\string\obj\Debug\net8.0\string.sourcelink.json
+E:\VSCODE\Learning-CSharp-OOP\string\obj\Debug\net8.0\string.dll
+E:\VSCODE\Learning-CSharp-OOP\string\obj\Debug\net8.0\refint\string.dll
+E:\VSCODE\Learning-CSharp-OOP\string\obj\Debug\net8.0\string.pdb
+E:\VSCODE\Learning-CSharp-OOP\string\obj\Debug\net8.0\string.genruntimeconfig.cache
+E:\VSCODE\Learning-CSharp-OOP\string\obj\Debug\net8.0\ref\string.dll
